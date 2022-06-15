@@ -1,0 +1,15 @@
+{
+  "name": "attractions-scraper",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/init"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongodb": "^4.3.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
